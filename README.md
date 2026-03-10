@@ -72,10 +72,3 @@ Aunque las valoraciones de los clientes son similares entre las tiendas, la Tien
 - Menor contribución al rendimiento general del negocio
 
 Por este motivo, se recomienda que el Sr. Juan **considere vender la Tienda 4** y utilizar los recursos obtenidos para invertir en un nuevo emprendimiento.
-
-
-
-
-# Autor
-
-Proyecto realizado como parte del programa **Alura LATAM - Challenge de Data Science**.
